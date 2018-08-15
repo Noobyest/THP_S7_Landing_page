@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  landing_1: MyString
+  landing_2: MyString
+  landing_3: MyString
+
+two:
+  landing_1: MyString
+  landing_2: MyString
+  landing_3: MyString
